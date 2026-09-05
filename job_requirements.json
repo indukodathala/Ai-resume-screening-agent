@@ -1,0 +1,15 @@
+{
+    "job_title": "Python Developer",
+    "required_skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "REST API"
+    ],
+    "preferred_skills": [
+        "Flask",
+        "FastAPI",
+        "Machine Learning"
+    ],
+    "minimum_experience": 0
+}
